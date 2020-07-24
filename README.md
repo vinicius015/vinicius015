@@ -14,6 +14,6 @@ Além do técnico, faço alguns cursos na Udemy e também na Rocketseat. Estou a
 * Java
 
 ### Me encontre 📬
-* vinicius.santosama@gmail.com 📧
+* vinicius.santosama@gmail.com
 * [Linkedin](https://www.linkedin.com/in/vinicius-dos-santos-amaral-6b6b9519a/)
 
