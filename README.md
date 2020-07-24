@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World! Welcome to me profile!!
+Meu nome é Vinicius e atualmente estou estudando para me tornar um programador.
 
-<!--
-**vinicius015/vinicius015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Formação 🎓 
+Estou no segundo ano do curso técnico de informática integrado ao ensino médio.
 
-Here are some ideas to get you started:
+#### Estudando 📓
+Além do curso técnico, faço alguns cursos na Udemy e também na Rocketseat. Estou aprendendo Java e dando os primeiros passos no Javascript também.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Conhecimentos 💡
+* Html
+* CSS
+* Javascript
+* Java
+
+#### Me encontre 📬
+[E-mail](vinicius.santosama@gmail.com)
+[Linkedin](https://www.linkedin.com/in/vinicius-dos-santos-amaral-6b6b9519a/)
+
