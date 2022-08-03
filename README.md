@@ -7,8 +7,12 @@
 * 🇧🇷 I'm brazilian and I speak English too
 
 ### Languanges and Tools
-* HTML, CSS and Javascript
+* HTML, CSS
+* Bootstrap
+* Javascript
 * Java
+* Spring Boot
+* MySQL
 * SQL Server
 
 ### Find me
