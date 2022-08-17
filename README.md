@@ -20,7 +20,6 @@
 * Scrum
 * Kanban
 * Data Modeling
-* 
 
 ### Find me
 * 💼 [Linkedin](https://www.linkedin.com/in/vinicius-dos-santos-amaral-6b6b9519a/)
