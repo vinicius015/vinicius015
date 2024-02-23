@@ -3,17 +3,14 @@
 
 * 🌱 I'm currently learning Java and Javascript
 * 🔭 I'm looking for sharing my projects and learning more from others developers
-* 🥅 My current goal is to learn more about Java and Web development to become a Full Stack Developer in the future
-* ⚡ Fun fact: I watch movies all the time
 * 🇧🇷 I'm brazilian and I speak English too
 
 ### Languanges and Tools
-* HTML, CSS
-* Bootstrap
 * Javascript
+* Cypress
 * Java
 * Spring Boot
-* MySQL
+* Oracle SQL
 * SQL Server
 
 ### Others
