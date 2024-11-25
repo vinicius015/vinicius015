@@ -1,12 +1,13 @@
 ### Hi there, I'm Vinicius! 👋
 #### FIAP - Information Systems
 
-* 🌱 I'm currently learning Java and Javascript
+* 🌱 I'm currently learning Javascript and Typescript
 * 🔭 I'm looking for sharing my projects and learning more from others developers
 * 🇧🇷 I'm brazilian and I speak English too
 
 ### Languanges and Tools
 * Javascript
+* Typescript
 * Cypress
 * Java
 * Spring Boot
